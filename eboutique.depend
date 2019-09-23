@@ -1,0 +1,337 @@
+# depslib dependency file v1.0
+1481444896 source:c:\users\asus\desktop\1ing1\c\eboutique\src\index.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<time.h>
+	<sys/time.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"marque1.h"
+
+1480863672 c:\users\asus\desktop\1ing1\c\eboutique\include\index.h
+	<gtk/gtk.h>
+
+1481328274 source:c:\users\asus\desktop\1ing1\c\eboutique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<gtk/gtk.h>
+	"index.h"
+	<time.h>
+
+1481415945 source:c:\users\asus\desktop\1ing1\c\eboutique\src\connexion.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<sys/time.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"connexion.h"
+
+1480846628 c:\users\asus\desktop\1ing1\c\eboutique\include\connexion.h
+
+1481402858 source:c:\users\asus\desktop\1ing1\c\eboutique\src\inscription.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"marque1.h"
+
+1480847588 c:\users\asus\desktop\1ing1\c\eboutique\include\inscription.h
+
+1480848059 source:c:\users\asus\desktop\1ing1\c\eboutique\src\insertion.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"insertion.h"
+
+1480848022 c:\users\asus\desktop\1ing1\c\eboutique\include\insertion.h
+
+1481444746 c:\users\asus\desktop\1ing1\c\eboutique\include\marque1.h
+
+1481444839 source:c:\users\asus\desktop\1ing1\c\eboutique\src\marque1.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"marque1.h"
+
+1481239054 source:c:\users\asus\desktop\1ing1\c\eboutique\src\marque2.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"marque2.h"
+
+1480880793 c:\users\asus\desktop\1ing1\c\eboutique\include\marque2.h
+
+1481239925 source:c:\users\asus\desktop\1ing1\c\eboutique\src\marque3.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"marque3.h"
+
+1480880706 c:\users\asus\desktop\1ing1\c\eboutique\include\marque3.h
+
+1481238552 source:c:\users\asus\desktop\1ing1\c\eboutique\src\marque4.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"marque4.h"
+
+1480881170 c:\users\asus\desktop\1ing1\c\eboutique\include\marque4.h
+
+1481284440 source:c:\users\asus\desktop\1ing1\c\eboutique\src\client.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"marque1.h"
+	"client.h"
+	"connexion.h"
+
+1481155494 c:\users\asus\desktop\1ing1\c\eboutique\include\client.h
+
+1481284269 source:c:\users\asus\desktop\1ing1\c\eboutique\src\marque11.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"marque11.h"
+
+1481191857 c:\users\asus\desktop\1ing1\c\eboutique\include\marque11.h
+
+1481284310 source:c:\users\asus\desktop\1ing1\c\eboutique\src\marque22.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"marque22.h"
+
+1481284151 c:\users\asus\desktop\1ing1\c\eboutique\include\marque22.h
+
+1481284796 source:c:\users\asus\desktop\1ing1\c\eboutique\src\marque33.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"marque33.h"
+
+1481284700 c:\users\asus\desktop\1ing1\c\eboutique\include\marque33.h
+
+1481284882 source:c:\users\asus\desktop\1ing1\c\eboutique\src\marque44.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"marque44.h"
+
+1481284745 c:\users\asus\desktop\1ing1\c\eboutique\include\marque44.h
+
+1481405879 source:c:\users\asus\desktop\1ing1\c\eboutique\src\affiche1.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"marque1.h"
+	"affiche1.h"
+	"connexion.h"
+
+1481285797 c:\users\asus\desktop\1ing1\c\eboutique\include\affiche1.h
+
+1481418785 source:c:\users\asus\desktop\1ing1\c\eboutique\src\adminmagasin.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"adminMagasin.h"
+
+1481321528 c:\users\asus\desktop\1ing1\c\eboutique\include\adminmagasin.h
+
+1481326384 source:c:\users\asus\desktop\1ing1\c\eboutique\src\ajoutmarque.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"ajoutmarque.h"
+
+1481322093 c:\users\asus\desktop\1ing1\c\eboutique\include\ajoutmarque.h
+
+1481332747 source:c:\users\asus\desktop\1ing1\c\eboutique\src\ajoutproduit.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<sys/time.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"ajoutproduit.h"
+
+1481324601 c:\users\asus\desktop\1ing1\c\eboutique\include\ajoutproduit.h
+
+1481419460 source:c:\users\asus\desktop\1ing1\c\eboutique\src\consulteclient.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<time.h>
+	<sys/time.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"marque1.h"
+	"consultepro.h"
+	"consuteClientsA.h"
+	"consulteClient.h"
+
+1481419245 c:\users\asus\desktop\1ing1\c\eboutique\include\consulteclient.h
+
+1481412869 source:c:\users\asus\desktop\1ing1\c\eboutique\src\adming.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"adminG.h"
+	"ajoutadminmag.h"
+	"consultepro.h"
+	"consulteClient.h"
+	"consuteClientsA.h"
+
+1481380480 c:\users\asus\desktop\1ing1\c\eboutique\include\adming.h
+
+1481396120 source:c:\users\asus\desktop\1ing1\c\eboutique\src\ajoutadminmag.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	<string.h>
+	"index.h"
+	"Inscription.h"
+	"connexion.h"
+	"ajoutadminmag.h"
+
+1481381886 c:\users\asus\desktop\1ing1\c\eboutique\include\ajoutadminmag.h
+
+1481414277 source:c:\users\asus\desktop\1ing1\c\eboutique\src\consultadminm.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"consultadminM.h"
+
+1481383282 c:\users\asus\desktop\1ing1\c\eboutique\include\consultadminm.h
+
+1481415294 source:c:\users\asus\desktop\1ing1\c\eboutique\src\consultepro.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<time.h>
+	<sys/time.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"marque1.h"
+	"consultepro.h"
+
+1481410722 c:\users\asus\desktop\1ing1\c\eboutique\include\consultepro.h
+
+1481418950 source:c:\users\asus\desktop\1ing1\c\eboutique\src\consuteclientsa.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<time.h>
+	<sys/time.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"marque1.h"
+	"consultepro.h"
+	"consuteClientsA.h"
+
+1481412896 c:\users\asus\desktop\1ing1\c\eboutique\include\consuteclientsa.h
+
+1481419555 source:c:\users\asus\desktop\1ing1\c\eboutique\src\consulteproduit.c
+	<stdlib.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<time.h>
+	<sys/time.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+	"index.h"
+	"marque1.h"
+	"consultepro.h"
+	"consulteproduit.h"
+
+1481416843 c:\users\asus\desktop\1ing1\c\eboutique\include\consulteproduit.h
+

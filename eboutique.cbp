@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="eboutique" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/eboutique" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/eboutique" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/Inscription.h" />
+		<Unit filename="include/adminG.h" />
+		<Unit filename="include/adminMagasin.h" />
+		<Unit filename="include/affiche1.h" />
+		<Unit filename="include/ajoutadminmag.h" />
+		<Unit filename="include/ajoutmarque.h" />
+		<Unit filename="include/ajoutproduit.h" />
+		<Unit filename="include/client.h" />
+		<Unit filename="include/connexion.h" />
+		<Unit filename="include/consultadminM.h" />
+		<Unit filename="include/consulteClient.h" />
+		<Unit filename="include/consultepro.h" />
+		<Unit filename="include/consulteproduit.h" />
+		<Unit filename="include/consuteClientsA.h" />
+		<Unit filename="include/index.h" />
+		<Unit filename="include/marque1.h" />
+		<Unit filename="include/marque11.h" />
+		<Unit filename="include/marque2.h" />
+		<Unit filename="include/marque22.h" />
+		<Unit filename="include/marque3.h" />
+		<Unit filename="include/marque33.h" />
+		<Unit filename="include/marque4.h" />
+		<Unit filename="include/marque44.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Inscription.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/adminG.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/adminMagasin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/affiche1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/ajoutadminmag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/ajoutmarque.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/ajoutproduit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/connexion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/consultadminM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/consulteClient.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/consultepro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/consulteproduit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/consuteClientsA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/index.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/marque1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/marque11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/marque2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/marque22.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/marque3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/marque33.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/marque4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/marque44.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
